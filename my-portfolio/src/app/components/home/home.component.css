@@ -49,3 +49,122 @@ a {
   font-weight: bold;
   font-size: 18px;
 }
+
+/*presentationsection*/
+.container-presentation {
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+
+.title-presentation {
+  padding-top: 30px;
+  padding-left: 30x;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  margin-top: 50px;
+
+  color: var(--header-color);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 18px;
+  letter-spacing: 1.5px;
+  text-align: center;
+}
+
+.text-presentation {
+  margin: 20px;
+  margin-bottom: 50px;
+  padding-left: 30x;
+  padding-right: 30px;
+
+  color: var(--main-text-color);
+  font-size: 16px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+i {
+  font-size: 20px;
+  padding-right: 6px;
+  color: var(--main-icons-color);
+}
+
+/*img */
+
+.img-bg img {
+  border-radius: 50%;
+  width: 350px;
+}
+
+/*button update features*/
+
+.btn-update i {
+  padding-left: 3px;
+}
+
+/*about me section*/
+
+/*img gif*/
+
+.gif-about img {
+  padding: 10px;
+  margin-bottom: -25px;
+  margin-left: -33px;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+}
+
+/*setting card about me*/
+.container-about {
+  padding: 40px;
+  margin: 10px;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+
+.bg-body {
+  background-color: var(--third-bg-color);
+}
+
+.card-body {
+  background-color: var(--third-bg-color);
+}
+
+.mb-5 {
+  margin-bottom: 0rem !important;
+}
+
+.card-header {
+  font-size: 22px;
+}
+
+.card-title {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 8px;
+  font-size: 23px;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  color: var(--main-titles-color);
+}
+
+.card-text {
+  padding: 10px;
+  font-size: 16px;
+  font-family: "roboto", "Helvetica Neue";
+  color: var(--main-text-color);
+}
+
+i {
+  color: var(--third-icons-color);
+}
+
+/*btn-update*/
+.btn-update {
+  margin-top: 4px;
+}
+
+.btn-update i {
+  padding: 3px;
+}
