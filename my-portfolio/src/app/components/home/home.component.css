@@ -326,3 +326,190 @@ i {
 }
 
 /*btn-change and btn project*/
+
+/*section skills*/
+.container-skills {
+  padding: 30px;
+  margin: 20px;
+  margin-top: 70px;
+  margin-bottom: 137px;
+}
+
+.col {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+/*card hard and soft skills */
+
+.bg-body {
+  background-color: var(--third-bg-color);
+}
+
+.card-body {
+  background-color: var(--third-bg-color);
+}
+
+.card-header {
+  font-size: 22px;
+}
+
+.card-title {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 8px;
+  font-size: 23px;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  color: var(--main-titles-color);
+}
+
+.card-text {
+  padding: 10px;
+  font-size: 16px;
+  font-family: "roboto", "Helvetica Neue";
+}
+
+.mb-5 {
+  margin-bottom: 0rem !important;
+}
+
+i {
+  color: var(--third-icons-color);
+}
+
+/*list of skills*/
+
+.description-skill {
+  display: flex;
+  padding-top: 11px;
+  padding-right: 46px;
+  justify-content: flex-end;
+}
+
+.name-skill {
+  color: var(--main-text-color);
+  font-size: 17px;
+  font-family: "roboto", "Helvetica Neue";
+}
+
+.slash-skill {
+  padding-left: 6px;
+  padding-right: 6px;
+  font-weight: bold;
+  color: var(--main-text-color);
+}
+
+.number-skill {
+  padding-top: 2px;
+  font-style: italic;
+  font-size: 14px;
+  color: var(--fourth-text-color);
+}
+
+.progress {
+  background-color: var(--third-bg-color);
+  height: 0.7rem;
+}
+
+.progress-bar {
+  background-color: var(--secondary-bg-color);
+}
+
+/*button update features*/
+
+.btn-update {
+  margin-top: 4px;
+}
+
+.btn-update i {
+  padding: 3px;
+}
+
+/*section contact me*/
+
+/*animation-slide-header*/
+
+.animation-header .placeholder {
+  min-height: 0.5em;
+}
+
+/*form*/
+
+.conatiner-contact {
+  padding: 30px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.rounded {
+  width: 500px;
+  margin-top: 70px;
+  margin-left: 300px;
+}
+
+.title-contact {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  color: var(--main-titles-color);
+}
+
+.form-group {
+  width: auto;
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+}
+
+.form-group label {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 6px;
+  color: var(--main-text-color);
+}
+
+#text {
+  padding-bottom: 1px;
+}
+
+.shadow-lg {
+  background-color: var(--sixth-bg-color);
+}
+
+/*animation-slide-footer*/
+
+.placeholder {
+  background-color: var(--fifth-bg-color);
+}
+
+.animation-footer {
+  padding-top: 70px;
+}
+
+/*section footer*/
+
+.navStyle {
+  padding: 20px;
+  font-size: 25px;
+  color: var(--third-text-color);
+  font-weight: bold;
+}
+
+.containerColor {
+  background-color: var(--fourth-bg-color);
+}
+
+.nav-link {
+  color: var(--third-text-color);
+}
+
+.img-arg {
+  padding-right: 270px;
+}
